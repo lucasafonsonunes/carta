@@ -1,0 +1,49 @@
+.container {
+    display: flex;
+    justify-content: center;
+
+}
+
+.card {
+    width: 450px;
+    height: 600px;
+    border-radius: 15px;
+    margin-top: 100px;
+    background-color: blanchedalmond;
+}
+
+.texto{
+    text-align: center;
+    color: black;
+
+}
+
+.text-dois{
+    text-align: left;
+    color:black;
+    font-size: 20px;
+    text-indent:10px;
+}
+
+.text-tres{
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    text-indent: 10px;
+}
+
+.text-quatro{
+    text-align: left;
+    color:black;
+    font-size: 13px;
+    text-indent:10px;  
+}
+
+.text-cinco{
+    text-align: left;
+    color:black;
+    font-size: 13px;
+    text-indent:10px;  
+}
+     
+
